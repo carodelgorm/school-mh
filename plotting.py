@@ -80,7 +80,7 @@ funds for safe and drug-free schools and communities, elementary and secondary s
 counseling, full-service community schools, and 20 percent of ESEA IV-A student
 support and academic enrichment (SSAE) grants (the required minimum that districts
 must use of these funds toward student mental and behavioral health, school climate, or
-school safety). Not include: Department of Education ESSA Title II funds (which may go
+school safety). Not included: Department of Education ESSA Title II funds (which may go
 toward educator training related to student mental health), special education, funds
 for neglected and delinquent students, or funds for initiatives through other federal
 agencies (e.g., SAMHSA, CMS, CDC, or DOJ).
