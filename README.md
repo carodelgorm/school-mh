@@ -11,3 +11,7 @@ For plotting:
 - run setup.py to generate csv file of merged "ed_sbmh_funding.csv" and "ed_overall_budgets.csv" (saved as 'ed_sbmh_funding_for_plotting.csv')
 - run plotting.py to generate fig1.png and fig2.png
 - run maps.py to generate appendix maps: map_mh_absences.png, map, map_mh_literacy.png, prek12sel.png
+
+CSV Files:
+- in 'src' 11-24action.xlxs are raw files from US Department of Education representing FY budgets, used to create 'ed_overall_budgets.csv' and 'ed_sbmh_funding.csv' for Figure 1 and Appendix Figure 1 (saved as fig2.png)
+- in 'src' state_level_policies.csv is used to create map figures in appendix
