@@ -1,0 +1,52 @@
+state,abbrev,mh_absences,mh_literacy,prek12_sel
+Alabama,AL,No,No,pre_k
+Alaska,AK,No,No,pre_k
+Arizona,AZ,Yes,No,pre_k_12
+Arkansas,AR,No,Yes,pre_k_12
+California,CA,Yes,Yes,pre_k_12
+Colorado,CO,Yes,Yes,pre_k
+Connecticut,CT,Yes,Yes,pre_k_ee
+Delaware,DE,Yes,No,pre_k_12
+District of Columbia,DC,No,Yes,pre_k_12
+Florida,FL,No,Yes,pre_k_ee
+Georgia,GA,No,No,pre_k
+Hawaii,HI,No,Yes,pre_k_ee
+Idaho,ID,No,Yes,pre_k_ee
+Illinois,IL,Yes,No,pre_k_12
+Indiana,IN,No,No,pre_k_12
+Iowa,IA,No,No,pre_k_12
+Kansas,KS,No,No,pre_k
+Kentucky,KY,Yes,Yes,pre_k
+Louisiana,LA,No,No,pre_k
+Maine,ME,Yes,Yes,pre_k_12
+Maryland,MD,No,Yes,pre_k_ee
+Massachusetts,MA,No,No,pre_k_ee
+Michigan,MI,No,No,pre_k_12
+Minnesota,MN,No,Yes,pre_k_12
+Mississippi,MS,No,Yes,pre_k_12
+Missouri,MO,No,No,pre_k
+Montana,MT,No,No,pre_k_12
+Nebraska,NE,No,No,pre_k
+Nevada,NV,Yes,Yes,pre_k_12
+New Hampshire,NH,No,Yes,pre_k
+New Jersey,NJ,No,Yes,pre_k_12
+New Mexico,NM,No,Yes,pre_k_ee
+New York,NY,No,Yes,pre_k_12
+North Carolina,NC,No,No,pre_k
+North Dakota,ND,No,No,pre_k_12
+Ohio,OH,No,No,pre_k_12
+Oklahoma,OK,No,Yes,pre_k
+Oregon,OR,Yes,Yes,pre_k_12
+Pennsylvania,PA,No,No,pre_k_ee
+Rhode Island,RI,No,No,pre_k_12
+South Carolina,SC,No,Yes,pre_k
+South Dakota,SD,No,No,pre_k
+Tennessee,TN,No,No,pre_k_12
+Texas,TX,No,Yes,pre_k
+Utah,UT,Yes,No,pre_k
+Vermont,VT,No,Yes,pre_k_ee
+Virginia,VA,Yes,Yes,pre_k
+Washington,WA,Yes,Yes,pre_k_ee
+West Virginia,WV,No,Yes,pre_k_12
+Wisconsin,WI,No,No,pre_k_12
+Wyoming,WY,No,No,pre_k
